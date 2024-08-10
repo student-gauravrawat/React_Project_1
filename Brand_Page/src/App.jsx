@@ -1,4 +1,5 @@
 import './App.css'
+import Hero from './component/Hero'
 import Navigation from './component/Navigation'
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <>
       <Navigation/>
+      <Hero/>
     </>
   )
 }
