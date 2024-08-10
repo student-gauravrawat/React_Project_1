@@ -7,14 +7,14 @@ export default function Navigation () {
              </div>
 
 
-              <ul>
+              <ul className="">
                     <li href="#">Menu</li>
                     <li href="#">Location</li>
                     <li href="#">About</li>
                     <li href="#">Contact</li>
               </ul>
 
-              <button>Login</button>
+              <button className="">Login</button>
 
             </nav>
         </>
